@@ -1,7 +1,6 @@
 # Matastav Data Warehouse & Analytics Project
 
 **VSE Prague · Fundamental Analytics and Reporting · March 2026**  
-**Team 8 — Sara, Keyur and Li**
 
 ---
 
